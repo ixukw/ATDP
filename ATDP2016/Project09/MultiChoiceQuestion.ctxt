@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MultiChoiceQuestion()
+comment1.params=choice\ correct
+comment1.target=void\ addMultiChoice(java.lang.String,\ boolean)
+comment2.params=answer
+comment2.target=void\ addMultiAnswer(java.lang.String)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=response
+comment4.target=boolean\ checkMultiAnswer(java.lang.String)
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ countSevens(java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ Counts\ the\ number\ of\ digits\ with\ value\ 7\ in\ a\ given\ number\r\n\ \ \ \ \ \ @param\ n\ any\ non-negative\ number\r\n\ \ \ \ \ \ @return\ the\ number\ of\ digits\ with\ value\ 7\ in\ the\ decimal\ representation\ of\ n\r\n
+numComments=1

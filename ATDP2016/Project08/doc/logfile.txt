@@ -1,0 +1,38 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;E:\ATDP\Programming in Java\BlueJ\Project08
+-d
+E:\ATDP\Programming in Java\BlueJ\Project08\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+E:\ATDP\Programming in Java\BlueJ\Project08\Coin.java
+<---- end of javadoc command ---->
+Loading source file E:\ATDP\Programming in Java\BlueJ\Project08\Coin.java...
+E:\ATDP\Programming in Java\BlueJ\Project08\Coin.java:15: error: invalid method declaration; return type required
+    public coin(double aValue, String aName) {
+           ^
+E:\ATDP\Programming in Java\BlueJ\Project08\Coin.java:21: error: invalid method declaration; return type required
+    public getName() {
+           ^
+E:\ATDP\Programming in Java\BlueJ\Project08\Coin.java:25: error: invalid method declaration; return type required
+    public getValue() {
+           ^
+3 errors

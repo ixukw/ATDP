@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RectangleComponent2()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=x\ y
+comment2.target=void\ moveRectangleTo(int,\ int)
+comment2.text=\r\n\ \ \ \ \ \ Moves\ the\ rectangle\ to\ the\ given\ location.\r\n\ \ \ \ \ \ @param\ x\ the\ x-position\ of\ the\ new\ location\r\n\ \ \ \ \ \ @param\ y\ the\ y-position\ of\ the\ new\ location\r\n
+numComments=3

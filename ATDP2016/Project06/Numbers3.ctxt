@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ evenSum(int,\ int)
+comment0.text=\r\n\ \ \ \ \ \ Computes\ a\ sum\ of\ even\ integers\ \r\n\ \ \ \ \ \ @param\ a\ the\ lower\ bound\ (may\ be\ odd\ or\ even)\r\n\ \ \ \ \ \ @param\ b\ the\ upper\ bound\ (may\ be\ odd\ or\ even)\r\n\ \ \ \ \ \ @return\ the\ sum\ of\ even\ integers\ between\ a\ and\ b\ (inclusive).\r\n
+numComments=1

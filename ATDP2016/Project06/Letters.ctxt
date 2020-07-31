@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=int[]\ letterFrequencies(java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ Counts\ the\ frequencies\ of\ letters\ A-Za-z\ in\ a\ string\r\n\ \ \ \ \ \ @param\ str\ a\ string\r\n\ \ \ \ \ \ @return\ an\ array\ of\ 26\ counts.\ The\ i-th\ count\ is\ the\ number\ of\ occurrences\r\n\ \ \ \ \ \ of\ 'A'\ +\ i\ or\ 'a'\ +\ i.\r\n
+numComments=1

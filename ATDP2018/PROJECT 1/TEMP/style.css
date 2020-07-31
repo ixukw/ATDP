@@ -1,0 +1,18 @@
+body {
+  border-left: 500px solid lightblue;
+  border-right: 500px solid lightblue;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+input[type=radio] {
+  transform: scale(1.5);
+  border: 2px solid black;
+}
+input[type=submit] {
+  transform: scale(1.5);
+  margin-left: 40%;
+  margin-right: 40%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 5%;
+}

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Question()
+comment0.text=\r\n\ Creates\ a\ question.\r\n
+comment1.params=questionText
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ question\ text\ for\ a\ question.\r\n\ @param\ String\ \r\n
+comment2.params=correctResponse
+comment2.target=void\ setAnswer(java.lang.String)
+comment2.text=\r\n\ Creates\ an\ answer\ for\ a\ question.\r\n\ @param\ String\r\n
+comment3.params=response
+comment3.target=boolean\ checkAnswer(java.lang.String)
+comment3.text=\r\n\ Checks\ that\ the\ answer\ is\ correct.\r\n\ @return\ True\ if\ correct,\ false\ if\ incorrect.\r\n
+comment4.params=
+comment4.target=void\ display()
+numComments=5

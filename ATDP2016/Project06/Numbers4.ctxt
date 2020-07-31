@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=values
+comment0.target=int[]\ evenOdds(int[])
+comment0.text=\r\n\ \ \ \ \ \ Computes\ the\ number\ of\ even\ and\ odd\ values\ in\ a\ given\ array\r\n\ \ \ \ \ \ @param\ values\ an\ array\ of\ integer\ values\r\n\ \ \ \ \ \ @return\ an\ array\ of\ length\ 2\ whose\ 0\ entry\ contains\ the\ count\r\n\ \ \ \ \ \ of\ even\ elements\ and\ whose\ 1\ entry\ contains\ the\ count\ of\ odd\r\n\ \ \ \ \ \ values\r\n
+numComments=1

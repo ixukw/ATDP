@@ -1,0 +1,9 @@
+.songerrors:first-of-type {
+	background-color: gray;
+}
+.songerrors {
+	background-color: orange;
+}
+.metaIrony {
+	background-color: lightblue;
+}

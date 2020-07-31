@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=values
+comment0.target=int\ sameEnds(int[])
+comment0.text=\r\n\ \ \ \ \ \ Computes\ the\ length\ of\ the\ longest\ sequence\ that\ occurs\ in\ the\r\n\ \ \ \ \ \ start\ of\ the\ left\ half\ and\ the\ end\ of\ the\ right\ half\ of\ an\r\n\ \ \ \ \ \ array.\r\n\ \ \ \ \ \ @param\ values\ an\ array\ of\ integer\ values\r\n\ \ \ \ \ \ @return\ the\ length\ of\ the\ longest\ end\ sequence\r\n
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=java.lang.String\ stutter(java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ Computes\ a\ string\ that\ repeats\ every\ letter\ 't'\ in\ the\ original\ string.\r\n\ \ \ \ \ \ @param\ s\ any\ string\r\n\ \ \ \ \ \ @return\ a\ string\ with\ the\ same\ characters\ as\ s,\ except\ that\ every\ letter\ 't'\ is\ repeated\r\n
+numComments=1

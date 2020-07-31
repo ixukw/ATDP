@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=anHourlySalary
+comment0.target=Employee(double)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ an\ employee\ with\ a\ given\ salary\r\n\ \ \ \ \ \ @param\ anHourlySalary\ the\ hourly\ salary\ of\ this\ employee\r\n
+comment1.params=hoursWorked
+comment1.target=double\ weeklyWage(int)
+comment1.text=\r\n\ \ \ \ \ \ Computes\ the\ wage\ for\ a\ given\ week.\r\n\ \ \ \ \ \ @param\ hoursWorked\ the\ hours\ worked\ in\ the\ week\r\n\ \ \ \ \ \ @return\ the\ wage\ earned\ in\ that\ week,\ taking\ overtime\ into\ account\r\n
+comment2.params=hoursWorked
+comment2.target=double\ check(int)
+numComments=3

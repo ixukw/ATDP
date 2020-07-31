@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Daily()
+comment1.params=descriptionD
+comment1.target=void\ setDescriptionDaily(java.lang.String)
+comment2.params=day\ month
+comment2.target=boolean\ OccursOn(int,\ int)
+numComments=3

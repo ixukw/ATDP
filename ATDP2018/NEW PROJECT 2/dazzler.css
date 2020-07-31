@@ -1,0 +1,258 @@
+
+body {
+  background-color: rgb(70,70,150);
+  color: rgb(50,50,50);
+  font-family: Helvetica, Georgia, sans-serif;
+  font-weight: none;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 16px;
+  background-image: url("testy7.png");
+
+}
+
+.mainpage {
+  width: 1300px;
+  background-color: rgb(250,250,250);
+  margin: auto;
+  opacity: .96;
+  padding: 45px;
+  border-radius: 7px;
+  z-index: 3;
+  padding-top: 100px;
+}
+
+div.navbar {
+  width: 100%;
+  position: fixed;
+  height: 80px;
+  background-color: white;
+  margin: -20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  z-index: 10000000000;
+  display: inline-block;
+}
+
+div.navbar1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+div.navbar1 a {
+  color: gray;
+  font-style: normal;
+  text-decoration: none;
+}
+a {
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.navbar1 > a  {
+  display: inline;
+  float: left;
+  padding: 28px;
+  background-color: lightgray;
+
+}
+a:visited {
+  color: blue;
+}
+.navbar {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div.navbar1 > a:hover {
+  background-color: #a5c7ff;
+  cursor: pointer;
+}
+#atdplogo {
+  float: left;
+  display: inline;
+}
+.sessionLogin {
+  float: right;
+  display: inline;
+  margin-top: -50px;
+  margin-right: 100px;
+}
+.search1 {
+  padding-right: 50px;
+  margin-left: 45%;
+  margin-top: -69px;
+  overflow: hidden;
+}
+.search1 input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.searchit {
+  border: 0;
+  height: 30px;
+  width: 30px;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(30,30,30);
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-bottom: -45px;
+  margin-right: -45px;
+  margin-left: -45px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+footer > a:first-of-type {
+	color: rgb(255,0,0);
+}
+
+footer > a:last-of-type {
+	color: rgb(135,20,240);
+	font-size: 14px;
+}
+
+p.inStockText {
+  color: green;
+}
+p.noStockText {
+  color: red;
+}
+.invis {
+    visibility: hidden;
+}
+
+.rreserve {
+color: rgb(130,130,130);
+font-size: 9px;
+}
+
+.morerreserve {
+color: rgb(100,100,100);
+font-size: 6px;
+}
+
+.evenmorerreserve {
+color: rgb(90,90,90);
+font-size: 5px;
+}
+.lessrreserve {
+color: rgb(150,150,150);
+font-size: 13px;
+}
+
+img.sliders {
+	margin: auto;
+	width: 450px;
+	height: 450px;
+}
+input[type=submit] {
+  padding: 10px;
+  margin-top: 10px;
+  margin: auto;
+  width: 300px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.sliding {
+	background-color: rgb(235,235,235);
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 30px;
+	width: 750px;
+}
+
+div.faketd {
+	width: 250px;
+	height: 530px;
+	box-shadow: 5px 4px 8px 0 rgba(0, 0, 0, 0.2);
+	padding: 10px;
+	margin-left: 60px;
+	margin-right: 60px;
+	background: linear-gradient(to bottom right, rgb(240,240,240), rgb(255,255,255));
+	text-align: center;
+}
+
+div.faketd:hover {
+	background: linear-gradient(to bottom right, rgb(255,230,230), rgb(255,255,255));
+	box-shadow: 5px 8px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.browsecell p {
+	height: 65px;
+}
+
+div.faketd img:last-of-type {
+	width: 250px;
+	height: 250px;
+}
+
+div.greyboi {
+margin-right: -45px;
+margin-left: -45px;
+background-image: url("boidude.png");
+}
+
+.yeet1 {
+position: relative;
+bottom: 120px;
+right: 80px;
+float: left;
+z-index: 5;
+}
+
+.yeet2 {
+position: relative;
+float: right;
+bottom: 120px;
+left: 80px;
+z-index: 5;
+}
+
+div.feature {
+	position: relative;
+	bottom: 5px;
+	right: 10px;
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 102%;
+	color: red;
+}
+a.red:visited {
+color: red;
+}
+div.chunkyboi {
+margin: auto;
+text-align: center;
+}
+h1.bluebie {
+color: rgb(0,44,102);
+font-size: 40px;
+font-weight: bold;
+}
+h1.yellowbie {
+color: rgb(250,179,25);
+font-size: 40px;
+font-weight: bold;
+}
+h1.greybie {
+color: rgb(50,50,50);
+font-size: 40px;
+font-weight: bold;
+}
+p.willie {
+font-style: italic;
+font-size: 20px;
+color: rgb(50,50,50);
+}

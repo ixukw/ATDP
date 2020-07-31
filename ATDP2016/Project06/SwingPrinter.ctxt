@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ adapted\ from\ Java\ Tips\r\n\ http\://www.java-tips.org/java-se-tips-100019/106-java-awt-print/2296-how-to-print-swing-components.html\r\n
+comment1.params=
+comment1.target=SwingPrinter()
+comment2.params=
+comment2.target=void\ createUI()
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=void\ center()
+numComments=5

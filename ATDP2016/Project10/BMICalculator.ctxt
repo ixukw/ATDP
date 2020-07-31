@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BMICalculator()
+comment1.params=wt
+comment1.target=void\ setWt(int)
+comment2.params=ht
+comment2.target=void\ setHt(int)
+comment3.params=grp
+comment3.target=void\ setAgeGrp(char)
+comment4.params=
+comment4.target=double\ getBMIVal()
+comment5.params=
+comment5.target=java.lang.String\ getBMIEval()
+numComments=6

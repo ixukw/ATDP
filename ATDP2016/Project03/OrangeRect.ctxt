@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ approxLen
+comment0.target=OrangeRect(int,\ int,\ int)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ OrangeRect\ with\ a\ given\ top\ left\ corner.\r\n\ \ \ \ \ \ @param\ x\ the\ x\ coordinate\ of\ the\ top\ left\ corner\r\n\ \ \ \ \ \ @param\ y\ the\ y\ coordinate\ of\ the\ top\ left\ corner\r\n\ \ \ \ \ \ @param\ approxLen\ the\ approximate\ length\ of\ the\ OrangeRect;\ the\ OrangeRect's\ height\ if\ half\ of\ the\ length\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ \ \ \ \ \ Draws\ the\ OrangeRect.\r\n\ \ \ \ \ \ @param\ g2\ the\ graphics\ context\r\n
+numComments=2

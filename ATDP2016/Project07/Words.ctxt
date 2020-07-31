@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=words
+comment0.target=java.util.ArrayList\ shortWords(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ Returns\ all\ short\ words\ (length\ <\=\ 3)\ in\ an\ array\ of\ words\r\n\ \ \ \ \ \ @param\ words\ an\ array\ of\ strings\r\n\ \ \ \ \ \ @return\ an\ array\ list\ containing\ the\ short\ words\ in\ words\r\n
+numComments=1

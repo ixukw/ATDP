@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FibonacciGenerator()
+comment0.text=\r\n\ \ \ \ \ \ Construct\ a\ FibonacciGenerator\ object\ to\ generate\ a\ Fibonacci\ number.\r\n
+comment1.params=
+comment1.target=int\ nextNumber()
+comment1.text=\r\n\ \ \ \ \ \ Method\ used\ to\ calculate\ a\ fibonacci\ number.\r\n\ \ \ \ \ \ @return\ fNew\ the\ fibonacci\ number\r\n
+numComments=2

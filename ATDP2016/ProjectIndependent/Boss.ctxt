@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initHealth
+comment0.target=Boss(int)
+comment0.text=\r\n\ Creats\ a\ boss\ for\ the\ player\ to\ battle.\r\n\ FUTURE\:\ Health\ will\ be\ randomized?\r\n
+comment1.params=
+comment1.target=int\ getBossHealth()
+comment1.text=\r\n\ Gets\ the\ boss's\ health.\r\n
+comment2.params=amount
+comment2.target=void\ setBossHealth(int)
+comment2.text=\r\n\ Set\ the\ boss's\ health\ to\ an\ amount.\r\n
+comment3.params=amount
+comment3.target=void\ addBossHealth(int)
+comment3.text=\r\n\ Adds\ to\ the\ boss's\ health.\r\n
+comment4.params=
+comment4.target=boolean\ checkBossDead()
+comment4.text=\r\n\ Checks\ whether\ the\ boss\ is\ still\ alive.\r\n
+numComments=5

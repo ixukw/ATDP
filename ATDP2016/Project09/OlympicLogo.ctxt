@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=pg
+comment0.target=OlympicLogo(java.awt.Graphics)
+comment1.params=x\ y\ topMiddleRadius
+comment1.target=void\ createOlympicLogo(int,\ int,\ int)
+numComments=2

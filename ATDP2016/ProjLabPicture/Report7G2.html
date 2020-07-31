@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0077)http://codecheck.it/codecheck/fetch/16071422463438196010919380254/report.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="Version" content="0.3">
+<meta name="Submission" content="16071422463438196010919380254">
+<meta name="Problem" content="ch07_c07_exp_7_102">
+<meta name="Level" content="1">
+<meta name="Time" content="2016-07-14T22:46:01Z">
+<meta name="ID" content="Words">
+<meta name="User" content="16071221451882625714842052030">
+<meta name="Elapsed" content="1367 ms">
+<style type="text/css">
+.header {font-weight: bold; font-size: 1.2em; }
+.item {font-weight: bold;}
+.pass {color: green;}
+.fail {color: red;}
+table.file td {padding-right: 1em; background: #FFF; }
+.linenumber {color: gray;}
+.footnote {font-size: 0.7em;}
+table {font-size: 0.9em;}
+td, th { background: #EEE; margin: 0.5em; padding: 0.25em;}
+table.output td {vertical-align: top;}
+div.footnotes { border-top: 1px solid gray; padding-top: 0.5em; }
+</style>
+<title>Report</title>
+</head>
+<body>
+<p class="header callMethod">Calling method</p>
+<p class="header testMethod">Testing method shortWords</p>
+<table class="run">
+<tbody><tr><th>&nbsp;</th><th>Arguments</th><th>Actual</th><th>Expected</th></tr>
+<tr><td><span class="pass">pass</span></td>
+<td><pre>[Mary, had, a, little, lamb]</pre></td>
+<td><pre>[had, a]</pre></td>
+<td><pre>[had, a]</pre></td>
+</tr>
+<tr><td><span class="pass">pass</span></td>
+<td><pre>[Hello, World!]</pre></td>
+<td><pre>[]</pre></td>
+<td><pre>[]</pre></td>
+</tr>
+<tr><td><span class="pass">pass</span></td>
+<td><pre>[]</pre></td>
+<td><pre>[]</pre></td>
+<td><pre>[]</pre></td>
+</tr>
+</tbody></table>
+<p class="header studentFiles">Student files</p>
+<p class="caption">Words.java:</p>
+<table class="file"><tbody><tr><td><pre><span class="linenumber">  1</span>
+<span class="linenumber">  2</span>
+<span class="linenumber">  3</span>
+<span class="linenumber">  4</span>
+<span class="linenumber">  5</span>
+<span class="linenumber">  6</span>
+<span class="linenumber">  7</span>
+<span class="linenumber">  8</span>
+<span class="linenumber">  9</span>
+<span class="linenumber"> 10</span>
+<span class="linenumber"> 11</span>
+<span class="linenumber"> 12</span>
+<span class="linenumber"> 13</span>
+<span class="linenumber"> 14</span>
+<span class="linenumber"> 15</span>
+<span class="linenumber"> 16</span>
+<span class="linenumber"> 17</span>
+<span class="linenumber"> 18</span>
+<span class="linenumber"> 19</span>
+<span class="linenumber"> 20</span>
+<span class="linenumber"> 21</span>
+<span class="linenumber"> 22</span>
+<span class="linenumber"> 23</span>
+<span class="linenumber"> 24</span>
+<span class="linenumber"> 25</span>
+</pre></td><td><pre>import java.util.ArrayList;
+
+public class Words
+{
+   /**
+      Returns all short words (length &lt;= 3) in an array of words
+      @param words an array of strings
+      @return an array list containing the short words in words
+   */
+   public ArrayList&lt;String&gt; shortWords(String[] words)
+   {
+      ArrayList&lt;String&gt; shortWords = new ArrayList&lt;String&gt;();
+      
+      String words2 = "";
+      
+      for (int i = 0; i &lt; words.length; i++) {
+          words2 = words[i];
+          if (words2.length() &lt;= 3) {
+              shortWords.add(words[i]);
+          }
+      }
+      return shortWords;
+      
+   }
+}
+</pre></td></tr></tbody></table>
+<p class="header score">Score</p>
+<p class="score">3/3</p>
+<p class="download"><a href="http://codecheck.it/codecheck/fetch/16071422463438196010919380254/Words.signed.zip">Download</a></p>
+<div class="footnotes"><div class="footnote">2016-07-14T22:46:01Z</div>
+</div>
+
+</body></html>

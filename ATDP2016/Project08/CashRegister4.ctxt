@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CashRegister4()
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ cash\ register\ with\ no\ money\ in\ it.\r\n
+comment1.params=amount
+comment1.target=void\ recordPurchase(double)
+comment1.text=\r\n\ \ \ \ \ \ Records\ the\ purchase\ price\ of\ an\ item.\r\n\ \ \ \ \ \ @param\ amount\ the\ price\ of\ the\ purchased\ item\r\n
+comment2.params=coincount\ coinType
+comment2.target=void\ recordPayment(int,\ Coin)
+comment2.text=
+comment3.params=
+comment3.target=double\ giveChange()
+comment3.text=\r\n\ \ \ \ \ \ Computes\ the\ change\ due\ and\ resets\ the\ machine\ for\ the\ next\ customer.\r\n\ \ \ \ \ \ @return\ the\ change\ due\ to\ the\ customer\r\n
+numComments=4

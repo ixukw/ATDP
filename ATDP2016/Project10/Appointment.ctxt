@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Appointment()
+comment1.params=descriptionInput
+comment1.target=void\ setDescription(java.lang.String)
+comment2.params=dateI
+comment2.target=java.lang.String\ occursOn(java.lang.String)
+comment3.params=descriptionI\ dateI
+comment3.target=void\ newAppointment(java.lang.String,\ java.lang.String)
+comment4.params=descriptionI
+comment4.target=void\ newDailyAppointment(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
